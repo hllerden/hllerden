@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center"></h3>
 
-- 🔭 I’m currently working on **.Net**
+- 🔭 I’m currently working on **C++**
 
 - 💬 Ask me about **microcontrollers**
 
