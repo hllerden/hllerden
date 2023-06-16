@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **atMega  & Esp MicroControllers** 
 
-- 📫 How to reach me **halilxerden@gmail.com**
+- 📫 You can reach me at **Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
