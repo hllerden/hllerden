@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C++**
 
-- 💬 Ask me about ** atMega  & Esp ** 
+- 💬 Ask me about **atMega  & Esp** 
 
 - 📫 How to reach me **halilxerden@gmail.com**
 
