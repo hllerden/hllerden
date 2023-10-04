@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **C++ & Qt6**
 
 - 💬 Ask me about **atMega  & Esp MicroControllers** 
 
