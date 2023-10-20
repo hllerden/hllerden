@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C++ & Qt6**
 
-- 💬 Ask me about **atMega  & Esp MicroControllers** 
+- 💬 Ask me about **atMega  & Esp MicroControllers & Dwin T5l Screen** 
 
 - 📫 You can reach me at **Linkedin**
 
