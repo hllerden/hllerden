@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **C++ & Qt6**
+- 🔭 I’m currently working on **C++ & Qt6 & embedded Linux(Yocto)**
 
-- 💬 Ask me about **atMega  & Esp MicroControllers & Dwin T5l Screen** 
+- 💬 Ask me about **yocto & Esp MicroControllers** 
 
 - 📫 You can reach me at **Linkedin**
 
